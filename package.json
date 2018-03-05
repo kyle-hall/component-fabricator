@@ -1,14 +1,14 @@
 {
-  "name": "react-component-generator",
+  "name": "component-generator",
   "version": "1.0.0",
-  "description": "\"Simple CLI for generating react components. Very opinionated. YMMV\"",
+  "description": "\"Simple CLI for generating react components. Very opinionated.\"",
   "main": "index.js",
   "author": "Kyle Hall <hallkd47@gmail.com>",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/kyle-hall/react-component-generator"
+    "url": "https://github.com/kyle-hall/component-generator"
   },
   "dependencies": {
     "yargs": "^11.0.0"
