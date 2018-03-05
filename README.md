@@ -1,5 +1,5 @@
 
-# React Component Generator
+# Component Generator for React
 
 This is a handy little CLI I made for myself after I had been doing React for a bit.
 
