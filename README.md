@@ -11,15 +11,15 @@ The result is this component generator.
 
 To run this CLI, first install it:
 
-``` yarn global add react-component-generator ```
+``` yarn global add component-fabricator ```
 
 Then, in the directory where you want to create a component run the CLI:
 
-``` react-component-generator create <name-of-component> ```
+``` fab create <name-of-component> ```
 
 I will create a component called `MyComponent` for demonstration purposes:
 
-``` react-component-generator create MyComponent ```
+``` fab create MyComponent ```
 
 This will create two files (for now):
 
@@ -29,7 +29,6 @@ This will create two files (for now):
 The spec file will contain imports for Jest, Enzyme, and a couple Enzyme-related helpers. 
 
 ```js
-
 
 /**
  * @jest-environment node
