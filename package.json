@@ -1,5 +1,5 @@
 {
-  "name": "component-generator",
+  "name": "component-fabricator",
   "version": "1.0.0",
   "description": "\"Simple CLI for generating react components. Very opinionated.\"",
   "main": "index.js",
@@ -8,12 +8,12 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/kyle-hall/component-generator"
+    "url": "https://github.com/kyle-hall/component-fabricator"
   },
   "dependencies": {
     "yargs": "^11.0.0"
   },
   "bin": {
-    "snippet": "./index.js"
+    "fab": "./index.js"
   }
 }
